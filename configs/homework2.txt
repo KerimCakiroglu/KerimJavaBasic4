@@ -1,0 +1,7 @@
+#Added a new property
+#Sat Dec 03 08:49:33 PST 2022
+password=VerySecretPassword
+url=www.neotechcademy.com
+browser=firefox
+phonenumber=5541553251
+username=Admin
